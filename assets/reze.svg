@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Povetrie — Reze in the rain</title>
+  <desc id="desc">Original manga-style fan art of Reze from Chainsaw Man, with violet hair, emerald eyes, and a ring choker in a rainy neon city.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#100c18"/><stop offset=".58" stop-color="#301129"/><stop offset="1" stop-color="#781e40"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="0.86" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#824766"/><stop offset=".4" stop-color="#412945"/><stop offset="1" stop-color="#21182f"/>
+    </linearGradient>
+    <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#ad3b5e"/><stop offset=".54" stop-color="#6b294b"/><stop offset="1" stop-color="#351f39"/>
+    </linearGradient>
+    <linearGradient id="hideCity"><stop stop-color="#110d19"/><stop offset=".6" stop-color="#180e1e" stop-opacity=".94"/><stop offset="1" stop-color="#260f25" stop-opacity="0"/></linearGradient>
+    <pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#ff7c9c" opacity=".24"/></pattern>
+    <pattern id="windows" width="31" height="25" patternUnits="userSpaceOnUse"><rect x="5" y="5" width="6" height="10" fill="#ea587e" opacity=".27"/><rect x="16" y="5" width="7" height="10" fill="#71bcc0" opacity=".20"/></pattern>
+    <pattern id="rain" width="66" height="92" patternUnits="userSpaceOnUse" patternTransform="rotate(18)"><path d="M8 4v32m20 24v14m24-25v33m10-74v12" fill="none" stroke="#ffacbf" stroke-opacity=".30" stroke-width="1.1"/></pattern>
+    <clipPath id="frame"><rect x="8" y="8" width="1184" height="404" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path fill="url(#night)" d="M0 0h1200v420H0z"/>
+    <circle cx="943" cy="173" r="156" fill="#d74165" opacity=".18"/>
+    <circle cx="943" cy="173" r="140" fill="url(#dots)" stroke="#f07394" stroke-opacity=".45"/>
+    <circle cx="943" cy="173" r="123" fill="none" stroke="#f07394" stroke-opacity=".24" stroke-dasharray="2 5"/>
+    <path fill="#211327" d="M326 311v-92h37v-40h48v106h42V168h46v22h26v-66h63v172h37V88h59v56h21v148h52V155h71v141h52v-88h66v-19h43v109h44V102h43v-42h55v73h17v175h39v-88h29v200H326z"/>
+    <path fill="url(#windows)" d="M363 179h48v106h42V168h46v22h26v-66h63v172h37V88h59v56h21v148h52V155h71v141h52v-88h66v-19h43v109h44V102h43v-42h55v73h17v175h39v112H363z"/>
+    <path d="M602 328h586m-586 21h586m-493 24h493m-434 18h434" fill="none" stroke="#c94c71" stroke-opacity=".24" stroke-width="2"/>
+    <path d="M581 361h93m358 14h93m-526 24h61m410 2h113m-102-99h65" fill="none" stroke="#6dc9ca" stroke-opacity=".36" stroke-width="2"/>
+    <path d="M0 0h771v420H0z" fill="url(#hideCity)"/>
+    <path d="M0 0h1200v420H0z" fill="url(#rain)" opacity=".66"/>
+    <path d="M548 0l-117 420M588 0l-117 420m680-420-117 420" stroke="#e87b9c" stroke-opacity=".14" fill="none"/>
+    <path d="M644 75l-6 23m-22 85-7 26m526-86-10 38m18 55-6 22m-468 84-7 26" stroke="#ffacba" stroke-width="2" opacity=".56"/>
+    <path d="M46 121h32m-16-16v32m483 152h23m-11-11v22m593 46h24m-12-12v24" fill="none" stroke="#f68ca9" opacity=".74"/>
+    <g transform="translate(55 64)" font-family="Arial, Helvetica, sans-serif">
+      <text x="0" y="0" fill="#f491af" font-size="14" font-weight="700" letter-spacing="5">チェンソーマン  /  レゼ</text>
+      <path d="M0 87h386" stroke="#8c3b5d"/>
+      <text x="-4" y="72" fill="#fff0f5" font-size="70" font-weight="900" letter-spacing="-2">POVETRIE</text>
+      <text x="0" y="120" fill="#e4a8c0" font-size="16" font-weight="600" letter-spacing="3">PYSTOI1173  /  GITHUB</text>
+      <path d="M0 271h96" fill="none" stroke="#e0648a" stroke-width="3"/>
+      <text x="0" y="303" fill="#e1a7ba" font-size="13" letter-spacing="3">FLIPPER ZERO · RU / EN</text>
+    </g>
+    <g stroke="#1c1325" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+      <!-- Hair silhouette and ribbon -->
+      <path fill="#492741" d="M891 197q64-27 108 15 22 28 8 60-8-20-26-20 6 26-8 49-12-35-40-33l-56 4z"/>
+      <path fill="#f36988" d="M960 223q28-22 40-6l-13 32-28-15z"/>
+      <path fill="url(#hair)" d="M745 251q-31-30-24-78-8-52 21-92 27-44 92-51 58-8 105 31 27 22 33 65 14 73-26 115-17 23-44 29l-48-25-52 28z"/>
+      <path fill="#57304d" d="M741 212q-18-26-10-58-3 42 46 75l29 28q-43 10-65-45z"/>
+      <!-- Jacket and shirt -->
+      <path fill="url(#coat)" d="M688 420l13-47q19-56 63-70l60-20 71-12 61 27q52 16 79 65l20 57z"/>
+      <path fill="#542441" d="M701 378q12-32 45-50l-12 71-1 21h-44zM965 332q50 10 75 53l14 35h-66z"/>
+      <path fill="#e4cfdb" d="M792 297l37-23 66-10 46 30-29 126h-93z"/>
+      <!-- Neck, ear and face -->
+      <path fill="#efa5a7" d="M832 230l5 48-12 16 31 37 43-40-11-63z"/>
+      <path fill="#c4778e" stroke="none" d="M832 243q24 20 54-10l4 34-54 14z"/>
+      <path fill="#eaa0a7" d="M919 171q31-14 30 13-4 23-31 29z"/>
+      <path d="M928 184q12-9 11 0m-13 10 8-6" stroke="#9b516a" stroke-width="2.2" fill="none"/>
+      <path fill="#f5bfad" d="M764 121q14-47 63-52 52-8 88 30 22 23 15 64l-6 34q-10 32-39 57-19 17-35 18-23 1-48-19-31-24-43-62-12-38 5-70z"/>
+      <path fill="#df8b9a" stroke="none" d="M762 158q12 18 40 11 37-9 61-31-8 24 10 38 26 4 51-14l-2 37q-9 33-39 57-14 11-27 14 27-5 44-49 8-21 5-47-21 26-48 11l-17 18-13-17q-35 9-64-8z" opacity=".72"/>
+      <path fill="#ec9b9d" stroke="none" d="M780 216q22 10 35 6-3 12-17 15zm102 5q17 2 28-10l-9 16q-14 6-19-6z"/>
+      <!-- Eyes and expression -->
+      <path fill="#fff0dc" d="M780 179q16-11 39 2-9 16-24 13-9-2-15-15zM865 182q18-15 42-13-2 14-13 20-15 9-29-7z"/>
+      <path fill="#4d9a83" stroke-width="2" d="M789 175q13-4 21 3l-2 9q-8 12-16 3zM876 176q10-7 20-6l-1 10q-4 12-14 9z"/>
+      <path d="M798 178v9m88-11v7" stroke="#203a39" stroke-width="3.5"/>
+      <path d="M794 178h2m86-1h2" stroke="#fff7ea" stroke-width="2.5"/>
+      <path d="M780 177q20-9 39 4m46 1q19-15 43-13m-131 5 6 4m126-13-7 5m-123-9q17-7 34-1m50 2q20-11 40-10" fill="none" stroke-width="3"/>
+      <path d="M840 185q-1 12-6 24l8 3m-11 20q14 5 29-3m-18 9 8-1" fill="none" stroke="#773e55" stroke-width="2"/>
+      <!-- Side-swept bangs and hair highlights -->
+      <path fill="url(#hair)" d="M725 155q0-71 53-105 30-20 66-19 57 2 91 40 29 29 35 68 6 39-25 71l-17 10q16-28 11-55-6-26-21-40-4 37-49 56 19-31 14-55-37 37-92 39 24-17 37-40-36 38-73 41-8 23 7 51l-20-14q-19-20-17-48z"/>
+      <path d="M733 138q9-60 54-82 30-16 69-15m-107 99q47-10 83-62m-33 80q49-16 82-62m53 1q31 45 18 82m-211 6q5 20 15 30" fill="none" stroke="#ac6481" stroke-width="2.1"/>
+      <path d="M753 103q23-38 76-48m13-6q52 2 80 30m-179 74q34-13 56-36" fill="none" stroke="#e68198" stroke-opacity=".63" stroke-width="2.6"/>
+      <!-- Choker and ring -->
+      <path fill="#282034" d="M836 266q25 3 56-13l5 14q-27 16-60 13z"/>
+      <path d="M853 278q7 1 7 8-1 7-8 7t-7-7q0-5 4-7" stroke="#ffd8a7" stroke-width="2.7" fill="none"/>
+      <!-- Collar and lapels -->
+      <path fill="#fff0df" d="M825 282l31 35-20 21-35-36zM898 275l-42 42 20 18 49-40z"/>
+      <path fill="#883351" d="M791 297l-53 29 41 21-20 23 55 50h29l-32-94zM926 291l48 26-27 30 23 17-46 56h-26l16-95z"/>
+      <path d="M729 350q-18 25-25 58m269-69q50 27 69 72m-219-81 21 72m62-70-14 75" fill="none" stroke="#d26d88" stroke-width="2.4"/>
+      <circle cx="861" cy="354" r="2.7" fill="#bf8c9f" stroke="none"/><circle cx="861" cy="377" r="2.7" fill="#bf8c9f" stroke="none"/><circle cx="861" cy="400" r="2.7" fill="#bf8c9f" stroke="none"/>
+    </g>
+    <path d="M730 103l-7 25m258 61-8 31m48 37-8 30m-310-49-8 27m358-199-6 19m-338 238-11 34m383-87-7 27" fill="none" stroke="#fda7bb" opacity=".66" stroke-width="1.6"/>
+  </g>
+  <rect x="8" y="8" width="1184" height="404" rx="18" fill="none" stroke="#d45e86" stroke-width="2"/>
+</svg>
