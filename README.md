@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="assets/reze.svg" alt="Povetrie. Фан-арт Резе из Chainsaw Man на фоне неонового города под дождём." width="1200">
+  <a href="https://chainsawman.dog/movie_reze/">
+    <img src="https://chainsawman.dog/movie_reze/assets/og/ogp.jpg" alt="Резе с красным цветком. Официальная обложка фильма Chainsaw Man — Reze Arc." width="1200">
+  </a>
 </p>
+<p align="center"><sub>© 2025 MAPPA / CHAINSAW MAN PROJECT · © Tatsuki Fujimoto / SHUEISHA · <a href="https://chainsawman.dog/movie_reze/">Официальный сайт фильма</a></sub></p>
 
 # Povetrie
 
@@ -20,7 +23,3 @@
 | Посмотреть исходники | [Репозиторий Unleashed RU/EN](https://github.com/Pystoi1173/unleashed-ru) |
 
 Пробовали alpha.1? Напишите, какие экраны стоит перевести следующими и что оказалось непонятно при установке. [Обсуждения проекта](https://github.com/Pystoi1173/unleashed-ru/discussions) · [Сообщить об ошибке](https://github.com/Pystoi1173/unleashed-ru/issues)
-
----
-
-<sub>Баннер с фан-артом Резе сделан для этого профиля. Персонаж из манги Chainsaw Man Тацуки Фудзимото.</sub>
