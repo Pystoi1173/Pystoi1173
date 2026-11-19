@@ -35,9 +35,3 @@
 | Посмотреть исходники | [Репозиторий Unleashed RU/EN](https://github.com/Pystoi1173/unleashed-ru) |
 
 Пробовали alpha.1? Напишите, какие экраны стоит перевести следующими и что оказалось непонятно при установке. [Обсуждения проекта](https://github.com/Pystoi1173/unleashed-ru/discussions) · [Сообщить об ошибке](https://github.com/Pystoi1173/unleashed-ru/issues)
-
-### GameLingo RU · Перевод игр на русский
-
-Офлайн-переводчик для одиночных игр на Windows. Считывает английские субтитры с экрана и показывает русский перевод поверх игры или в отдельном окне. Первая бета проверена на главном меню Rubinite.
-
-[Скачать бета-версию](https://github.com/Pystoi1173/GameLingo-RU/releases/tag/v0.1.0-beta) · [Репозиторий и руководство](https://github.com/Pystoi1173/GameLingo-RU#readme) · [Сообщить об ошибке](https://github.com/Pystoi1173/GameLingo-RU/issues/new/choose)
