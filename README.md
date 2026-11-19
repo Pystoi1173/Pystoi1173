@@ -23,14 +23,15 @@
 | Посмотреть исходники | [Репозиторий Unleashed RU/EN](https://github.com/Pystoi1173/unleashed-ru) |
 
 Пробовали alpha.1? Напишите, какие экраны стоит перевести следующими и что оказалось непонятно при установке. [Обсуждения проекта](https://github.com/Pystoi1173/unleashed-ru/discussions) · [Сообщить об ошибке](https://github.com/Pystoi1173/unleashed-ru/issues)
-### Reze Zapret В· Flowseal РґР»СЏ Windows
 
-Р“СЂР°С„РёС‡РµСЃРєР°СЏ РїР°РЅРµР»СЊ СѓРїСЂР°РІР»РµРЅРёСЏ Flowseal РґР»СЏ Windows. РџСЂРѕС„РёР»Рё, СЃРІРѕРё РґРѕРјРµРЅС‹, ALT-РїСЂРѕРІРµСЂРєРё, Р¶СѓСЂРЅР°Р» РґРµР№СЃС‚РІРёР№, РѕР±РЅРѕРІР»РµРЅРёСЏ, С‚СЂРµР№ Рё РїРµСЂРµРЅРѕСЃ РЅР°СЃС‚СЂРѕРµРє РІ РѕРґРЅРѕРј РїСЂРёР»РѕР¶РµРЅРёРё. РџСЂРѕРµРєС‚ РЅР°С…РѕРґРёС‚СЃСЏ РІ СЃС‚Р°РґРёРё **Р±РµС‚Р°-С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЏ** Рё Р±СѓРґРµС‚ РґРѕСЂР°Р±Р°С‚С‹РІР°С‚СЊСЃСЏ.
+### Reze Zapret · Flowseal для Windows
 
-| РҐРѕС‡Сѓ | РљСѓРґР° РёРґС‚Рё |
+Графическая панель для управления профилями и списками доменов Flowseal, проверки подключения и обновления локальных сборок. Проект находится в стадии **бета-тестирования** и будет дорабатываться.
+
+| Хочу | Куда идти |
 | --- | --- |
-| РЎРєР°С‡Р°С‚СЊ Р±РµС‚Р°-РІРµСЂСЃРёСЋ | [Р РµР»РёР· beta 0.1.0](https://github.com/Pystoi1173/Reze-Zapret/releases/tag/v0.1.0-beta) |
-| РћС‚РєСЂС‹С‚СЊ РїСЂРѕРµРєС‚ | [Р РµРїРѕР·РёС‚РѕСЂРёР№ Reze-Zapret](https://github.com/Pystoi1173/Reze-Zapret) |
-| РџСЂРѕС‡РёС‚Р°С‚СЊ РїРѕРґСЂРѕР±РЅС‹Р№ РіР°Р№Рґ | [README РїСЂРѕРµРєС‚Р°](https://github.com/Pystoi1173/Reze-Zapret#readme) |
-| РћСЃС‚Р°РІРёС‚СЊ РєРѕРјРјРµРЅС‚Р°СЂРёР№ РёР»Рё РїСЂРµРґР»РѕР¶РµРЅРёРµ | [GitHub Issues](https://github.com/Pystoi1173/Reze-Zapret/issues) |
-| РџРѕРґРґРµСЂР¶Р°С‚СЊ СЂР°Р·СЂР°Р±РѕС‚РєСѓ | [DonationAlerts](https://www.donationalerts.com/r/povetrie) |
+| Скачать программу | [Бета-релиз v0.1.0-beta](https://github.com/Pystoi1173/Reze-Zapret/releases/tag/v0.1.0-beta) |
+| Прочитать подробный гайд | [README проекта](https://github.com/Pystoi1173/Reze-Zapret#readme) |
+| Посмотреть исходники | [Репозиторий Reze-Zapret](https://github.com/Pystoi1173/Reze-Zapret) |
+| Сообщить об ошибке, задать вопрос или предложить улучшение | [GitHub Issues](https://github.com/Pystoi1173/Reze-Zapret/issues/new/choose) |
+| Поддержать разработку | [DonationAlerts](https://www.donationalerts.com/r/povetrie) |
