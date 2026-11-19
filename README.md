@@ -7,9 +7,21 @@
 
 # Povetrie
 
-Локализую интерфейсы и пишу гайды по установке и настройке. Сейчас работаю над русско-английской прошивкой для Flipper Zero.
+Локализую интерфейсы и пишу гайды по установке и настройке. Сейчас работаю над Reze Zapret для Windows и русско-английской прошивкой для Flipper Zero.
 
 ## Проекты
+
+### Reze Zapret · Flowseal для Windows
+
+Графическая панель для управления профилями и списками доменов Flowseal, проверки подключения и обновления локальных сборок. Проект находится в стадии **бета-тестирования** и будет дорабатываться.
+
+[**Скачать бета-версию**](https://github.com/Pystoi1173/Reze-Zapret/releases/tag/v0.1.0-beta) · [Репозиторий и руководство](https://github.com/Pystoi1173/Reze-Zapret#readme)
+
+<a href="https://github.com/Pystoi1173/Reze-Zapret#readme">
+  <img src="https://raw.githubusercontent.com/Pystoi1173/Reze-Zapret/main/docs/screenshots/dashboard.png" alt="Экран «Обзор» в Reze Zapret. Видны статус службы, активный профиль и быстрые действия." width="720">
+</a>
+
+[Сообщить об ошибке, задать вопрос или предложить улучшение](https://github.com/Pystoi1173/Reze-Zapret/issues/new/choose) · [Поддержать на DonationAlerts](https://www.donationalerts.com/r/povetrie)
 
 ### Unleashed RU/EN · Flipper Zero
 
@@ -23,15 +35,3 @@
 | Посмотреть исходники | [Репозиторий Unleashed RU/EN](https://github.com/Pystoi1173/unleashed-ru) |
 
 Пробовали alpha.1? Напишите, какие экраны стоит перевести следующими и что оказалось непонятно при установке. [Обсуждения проекта](https://github.com/Pystoi1173/unleashed-ru/discussions) · [Сообщить об ошибке](https://github.com/Pystoi1173/unleashed-ru/issues)
-
-### Reze Zapret · Flowseal для Windows
-
-Графическая панель для управления профилями и списками доменов Flowseal, проверки подключения и обновления локальных сборок. Проект находится в стадии **бета-тестирования** и будет дорабатываться.
-
-| Хочу | Куда идти |
-| --- | --- |
-| Скачать программу | [Бета-релиз v0.1.0-beta](https://github.com/Pystoi1173/Reze-Zapret/releases/tag/v0.1.0-beta) |
-| Прочитать подробный гайд | [README проекта](https://github.com/Pystoi1173/Reze-Zapret#readme) |
-| Посмотреть исходники | [Репозиторий Reze-Zapret](https://github.com/Pystoi1173/Reze-Zapret) |
-| Сообщить об ошибке, задать вопрос или предложить улучшение | [GitHub Issues](https://github.com/Pystoi1173/Reze-Zapret/issues/new/choose) |
-| Поддержать разработку | [DonationAlerts](https://www.donationalerts.com/r/povetrie) |
