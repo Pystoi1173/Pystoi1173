@@ -42,3 +42,9 @@
 ## Связь
 
 [Сообщить об ошибке Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret/issues/new/choose) · [Поддержать проект](https://www.donationalerts.com/r/povetrie)
+
+## Reze Translate
+
+Офлайн-переводчик английского текста в одиночных Windows-играх. Проект работает локально, поддерживает OCR, перевод поверх игры, игровые профили и файловый режим локализации.
+
+[Открыть Reze Translate](https://github.com/Pystoi1173/Reze-Translate) · [Скачать beta2](https://github.com/Pystoi1173/Reze-Translate/releases/tag/v0.1.0-beta2) · [Обсуждения](https://github.com/Pystoi1173/Reze-Translate/discussions)
