@@ -8,13 +8,21 @@
 
 Проекты, локализация и инструкции для Windows и Flipper Zero.
 
-## Проекты
+## Основной проект
 
 ### Reze Zapret для Windows
 
-Графическая оболочка для настройки и запуска Zapret с профилями Flowseal.
+Графическая оболочка для настройки и запуска Zapret с профилями Flowseal. Это основной проект профиля.
 
-[Репозиторий Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret) · [Инструкция](https://github.com/Pystoi1173/Reze-Zapret#readme)
+[Репозиторий Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret) · [Инструкция и документация](https://github.com/Pystoi1173/Reze-Zapret#readme)
+
+<a href="https://github.com/Pystoi1173/Reze-Zapret">
+  <img src="https://raw.githubusercontent.com/Pystoi1173/Reze-Zapret/main/docs/screenshots/dashboard.png" alt="Панель Reze Zapret для Windows" width="720">
+</a>
+
+[Скачать Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret/releases) · [Сообщить об ошибке](https://github.com/Pystoi1173/Reze-Zapret/issues/new/choose)
+
+## Другие проекты
 
 ### Reze Unleashed RU/EN для Flipper Zero
 
@@ -33,4 +41,4 @@
 
 ## Связь
 
-[Сообщить об ошибке](https://github.com/Pystoi1173/Reze-Unleashed-RU-EN/issues/new) · [Поддержать проект](https://www.donationalerts.com/r/povetrie)
+[Сообщить об ошибке Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret/issues/new/choose) · [Поддержать проект](https://www.donationalerts.com/r/povetrie)
