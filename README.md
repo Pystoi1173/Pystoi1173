@@ -1,50 +1,49 @@
 <p align="center">
-  <a href="https://chainsawman.dog/movie_reze/">
-    <img src="https://chainsawman.dog/movie_reze/assets/og/ogp.jpg" alt="Резе из фильма Chainsaw Man — The Movie: Reze Arc" width="1200">
-  </a>
+  <img src="https://raw.githubusercontent.com/Pystoi1173/Reze-Nova/main/assets/ui/hero.jpg" alt="Reze projects" width="1200">
 </p>
 
 # Povetrie
 
-Проекты, локализация и инструкции для Windows и Flipper Zero.
+Проекты, интерфейсы и инструкции для Windows и Flipper Zero.
 
-## Основной проект
+## Два основных проекта Reze
 
-### Reze Zapret для Windows
+### [Reze Nova](https://github.com/Pystoi1173/Reze-Nova)
 
-Графическая оболочка для настройки и запуска Zapret с профилями Flowseal. Это основной проект профиля.
+Спокойный центр управления системным маршрутом для Discord, YouTube, Telegram, пользовательских сайтов и игровых серверов. В проекте есть четыре режима, отдельная диагностика YouTube-видеопотока через `googlevideo.com`, Discord UDP-проверка, Telegram-прокси, окно «Мои ссылки», трей и понятная обработка конфликта с другим `winws.exe` или `winws2.exe`.
 
-[Репозиторий Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret) · [Инструкция и документация](https://github.com/Pystoi1173/Reze-Zapret#readme)
-
-<a href="https://github.com/Pystoi1173/Reze-Zapret">
-  <img src="https://raw.githubusercontent.com/Pystoi1173/Reze-Zapret/main/docs/screenshots/dashboard.png" alt="Панель Reze Zapret для Windows" width="720">
+<a href="https://github.com/Pystoi1173/Reze-Nova">
+  <img src="https://raw.githubusercontent.com/Pystoi1173/Reze-Nova/main/docs/screenshots/nova-main.png" alt="Главное окно Reze Nova" width="900">
 </a>
 
-[Скачать Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret/releases) · [Сообщить об ошибке](https://github.com/Pystoi1173/Reze-Zapret/issues/new/choose)
+[Скачать Reze Nova](https://github.com/Pystoi1173/Reze-Nova/releases/latest) · [Документация](https://github.com/Pystoi1173/Reze-Nova#readme) · [Сообщить об ошибке](https://github.com/Pystoi1173/Reze-Nova/issues/new/choose) · [Чат и вопросы](https://github.com/Pystoi1173/Reze-Nova/discussions)
+
+### [Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret)
+
+Графическая панель управления распакованной сборкой Flowseal. Проект помогает выбирать профили, редактировать пользовательские домены, проверять подключение, смотреть журнал, сравнивать ALT-профили, обновлять сборку и возвращаться к предыдущей версии.
+
+<a href="https://github.com/Pystoi1173/Reze-Zapret">
+  <img src="https://raw.githubusercontent.com/Pystoi1173/Reze-Zapret/main/docs/screenshots/dashboard.png" alt="Панель Reze Zapret" width="900">
+</a>
+
+[Скачать Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret/releases) · [Документация](https://github.com/Pystoi1173/Reze-Zapret#readme) · [Сообщить об ошибке](https://github.com/Pystoi1173/Reze-Zapret/issues/new/choose) · [Обсуждения](https://github.com/Pystoi1173/Reze-Zapret/discussions)
+
+## Какой проект выбрать
+
+| Задача | Проект |
+| --- | --- |
+| Нужен отдельный центр управления маршрутом и сервисами | [Reze Nova](https://github.com/Pystoi1173/Reze-Nova) |
+| Уже есть распакованная Flowseal и нужны профили, списки и ALT-лаборатория | [Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret) |
+
+## Связь и поддержка
+
+- [Чат и вопросы Reze Nova](https://github.com/Pystoi1173/Reze-Nova/discussions)
+- [Ошибки Reze Nova](https://github.com/Pystoi1173/Reze-Nova/issues/new/choose)
+- [Обсуждения Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret/discussions)
+- [Ошибки Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret/issues/new/choose)
+- [Поддержать разработку через DonationAlerts](https://www.donationalerts.com/r/povetrie)
 
 ## Другие проекты
 
-### Reze Unleashed RU/EN для Flipper Zero
-
-Фанатская прошивка Flipper Zero с 12 сценами Резе, русским и английским интерфейсом, встроенной двуязычной справкой и частичной локализацией приложений.
-
-| Раздел | Ссылка |
-| --- | --- |
-| Скачать проверенный пакет | [Reze Unleashed RU/EN v0.2.0-beta.1](https://github.com/Pystoi1173/Reze-Unleashed-RU-EN/releases/tag/reze-v0.2.0-beta.1) |
-| Установка | [Инструкция через qFlipper и USB CLI](https://github.com/Pystoi1173/Reze-Unleashed-RU-EN/blob/main/INSTALL_RU.md) |
-| Руководство | [Что умеют приложения и с чего начать](https://github.com/Pystoi1173/Reze-Unleashed-RU-EN/blob/main/USER_GUIDE_RU.md) |
-| Исходный код | [Pystoi1173/Reze-Unleashed-RU-EN](https://github.com/Pystoi1173/Reze-Unleashed-RU-EN) |
-
-[Галерея интерфейса и сцен Резе](https://github.com/Pystoi1173/Reze-Unleashed-RU-EN/tree/main/docs/screenshots) · [Результаты проверки](https://github.com/Pystoi1173/Reze-Unleashed-RU-EN/blob/main/RELEASE_NOTES_RU.md)
-
-Проект находится на стадии предварительного релиза. Перевод приложений частичный, а полный прогон аппаратных режимов ещё не завершён.
-
-## Связь
-
-[Сообщить об ошибке Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret/issues/new/choose) · [Поддержать проект](https://www.donationalerts.com/r/povetrie)
-
-## Reze Translate
-
-Офлайн-переводчик английского текста в одиночных Windows-играх. Проект работает локально, поддерживает OCR, перевод поверх игры, игровые профили и файловый режим локализации.
-
-[Открыть Reze Translate](https://github.com/Pystoi1173/Reze-Translate) · [Скачать beta2](https://github.com/Pystoi1173/Reze-Translate/releases/tag/v0.1.0-beta2) · [Обсуждения](https://github.com/Pystoi1173/Reze-Translate/discussions)
+- [Reze Unleashed RU/EN](https://github.com/Pystoi1173/Reze-Unleashed-RU-EN) — русско-английская сборка для Flipper Zero.
+- [Reze Translate](https://github.com/Pystoi1173/Reze-Translate) — офлайн-переводчик английского текста в Windows-играх.
