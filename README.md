@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/Pystoi1173/Reze-Nova/main/docs/screenshots/nova-main.png" alt="Главное окно Reze Nova" width="900">
 </a>
 
-[Скачать Reze Nova](https://github.com/Pystoi1173/Reze-Nova/releases/latest) · [Документация](https://github.com/Pystoi1173/Reze-Nova#readme) · [Сообщить об ошибке](https://github.com/Pystoi1173/Reze-Nova/issues/new/choose) · [Чат и вопросы](https://github.com/Pystoi1173/Reze-Nova/discussions)
+[Скачать Reze Nova](https://github.com/Pystoi1173/Reze-Nova/releases/tag/v0.1.0-beta.1) · [Документация](https://github.com/Pystoi1173/Reze-Nova#readme) · [Сообщить об ошибке](https://github.com/Pystoi1173/Reze-Nova/issues/new/choose) · [Чат и вопросы](https://github.com/Pystoi1173/Reze-Nova/discussions)
 
 ### [Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret)
 
