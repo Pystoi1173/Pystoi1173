@@ -13,7 +13,7 @@
 Спокойный центр управления системным маршрутом для Discord, YouTube, Telegram, пользовательских сайтов и игровых серверов. В проекте есть четыре режима, отдельная диагностика YouTube-видеопотока через `googlevideo.com`, Discord UDP-проверка, Telegram-прокси, окно «Мои ссылки», трей и понятная обработка конфликта с другим `winws.exe` или `winws2.exe`.
 
 <a href="https://github.com/Pystoi1173/Reze-Nova">
-  <img src="https://raw.githubusercontent.com/Pystoi1173/Reze-Nova/main/docs/screenshots/nova-main.png" alt="Главное окно Reze Nova" width="900">
+  <img src="https://raw.githubusercontent.com/Pystoi1173/Reze-Nova/main/docs/screenshots/nova-main-clean.png" alt="Главное окно Reze Nova" width="900">
 </a>
 
 [Скачать Reze Nova](https://github.com/Pystoi1173/Reze-Nova/releases/tag/v0.1.0-beta.1) · [Документация](https://github.com/Pystoi1173/Reze-Nova#readme) · [Сообщить об ошибке](https://github.com/Pystoi1173/Reze-Nova/issues/new/choose) · [Чат и вопросы](https://github.com/Pystoi1173/Reze-Nova/discussions)
